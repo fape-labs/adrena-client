@@ -1,6 +1,6 @@
 {
   "name": "adrena-client",
-  "version": "1.0.8",
+  "version": "1.10.0",
   "description": "Adrena Client for interacting with Adrena Protocol",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,7 +14,7 @@
     "blockchain",
     "client"
   ],
-  "author": "Your Name",
+  "author": "Fape Labs",
   "license": "MIT",
   "dependencies": {
     "@solana/web3.js": "^1.87.6",
